@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **FakeLight**
 
-_**{{ repo-description }}**_
+_**Luces volumétricas falsas para simular focos o halos luminosos. Perfecto para efectos atmosféricos sin usar luces reales.**_
 
 
 </header>

@@ -1,6 +1,9 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![410822130-94be9188-b512-4ba7-b614-b42ddf15ef00](https://github.com/user-attachments/assets/62a08a95-9686-46a1-a06a-3d1ecec688fe)
+
+![Movie_001](https://github.com/user-attachments/assets/765dc46e-a193-4303-a2aa-cd4737088ff5)
+
 
 # **FakeLight**
 
@@ -10,24 +13,5 @@ _**Luces volumétricas falsas para simular focos o halos luminosos. Perfecto par
 </header>
    
 <footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
 
 </footer>

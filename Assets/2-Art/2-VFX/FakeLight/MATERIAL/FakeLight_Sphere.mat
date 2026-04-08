@@ -94,6 +94,7 @@ Material:
     - _CastShadows: 0
     - _Cull: 2
     - _DstBlend: 1
+    - _DstBlendAlpha: 1
     - _Edge_Power: 2
     - _Emisive_Edge: 0.1
     - _EmisivoActivo: 1
@@ -115,6 +116,7 @@ Material:
     - _Roughness_Ajuste: 0.6
     - _Smoothness_Power: 0
     - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
     - _Surface: 1
     - _WorkflowMode: 1
     - _ZTest: 4

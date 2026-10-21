@@ -19,12 +19,16 @@ _**Luces volumétricas falsas para simular focos o halos luminosos. Perfecto par
 
 ## Contenido
 
-* **VFX Graph:** `Projector`
-* **Shader Graph:** `FakeLight_Cone`, `FakeLight_Sphere`, `FakeLight_Sphere_Displacement`, `FakeLight_Square`, `FakeLight_Water`, `Fake_Volumetric_LightShaft`, `SimpleFresnelShader`
-* **Sub Graphs:** `WaterVertexDisplacement`
-* **Scripts:** `LensFlareDataSRP`
-* **Prefabs:** `FakeLight_Cone`, `FakeLight_Sphere`, `FakeLight_Sphere 1`, `FakeLight_Sphere Variant`, `VFX_Proyector`
-* **Escenas:** `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Fake-Light-AbuSimbel** | — | 1 | — | — | 1 | 4 |
+| **FakeLight** | — | 6 | — | — | 4 | 16 |
+| **Proyector** | 1 | — | — | 1 | 1 | — |
+| **Water** | — | 1 | — | — | — | — |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
